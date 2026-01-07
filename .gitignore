@@ -1,0 +1,8 @@
+
+.ipynb_checkpoints/
+# Or to ignore them anywhere in the repo
+**/.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
